@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "524e7a5d-2e53-4961-8674-ad695430c758",
+    "ShortName": "FlashDel",
+    "Description": "Fastest delivery time",
+    "DeliveryTime": "1-2 Days",
+    "Price": 15
+  },
+  {
+    "Id": "81d0598c-d713-4532-8dd0-05eff8738ebd",
+    "ShortName": "Green Time",
+    "Description": "Get it within 5 days",
+    "DeliveryTime": "2-5 Days",
+    "Price": 10
+  },
+  {
+    "Id": "03a78d0c-c339-4557-abd0-a39c8ab8c3b1",
+    "ShortName": "DashDelivery",
+    "Description": "",
+    "DeliveryTime": "5-10 Days",
+    "Price": 8
+  },
+  {
+    "Id": "98098354-3e74-4055-aaa1-63d6d772ad89",
+    "ShortName": "Vershina",
+    "Description": "Free!Our delivery. You get what you pay for",
+    "DeliveryTime": "1-2 Weeks",
+    "Price": 0
+  }
+]

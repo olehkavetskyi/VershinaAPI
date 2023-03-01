@@ -1,0 +1,164 @@
+[
+  {
+    "Id": "5c8cc460-dd33-45b2-a950-8be08263e843",
+    "Name": "SoleMotion",
+    "Description": "Athletic shoe with a flexible sole for optimal motion.",
+    "Price": 200,
+    "PictureUrl": "images/products/SoleMotion.jpg",
+    "ProductTypeId": "aca675cb-3d2b-4b67-8183-2c1c09bcc044",
+    "ProductBrandId": "cb2324ae-8bbe-49b3-9552-285c05fbcb09"
+  },
+  {
+    "Id": "5aa9689b-bafd-4ef8-8c72-8802e32856ad",
+    "Name": "SwiftStride",
+    "Description": "Lightweight running shoe for quick and effortless strides.",
+    "Price": 150,
+    "PictureUrl": "images/products/SwiftStride.jpg",
+    "ProductTypeId": "aca675cb-3d2b-4b67-8183-2c1c09bcc044",
+    "ProductBrandId": "d4464b97-2864-4aee-9a61-c91efb0318c3"
+  },
+  {
+    "Id": "2f25acf0-b6dd-4a02-88a7-5080cea6ec77",
+    "Name": "WalkLite",
+    "Description": "Comfortable walking shoe with a light and breathable design.",
+    "Price": 180,
+    "PictureUrl": "images/products/WalkLite.webp",
+    "ProductTypeId": "aca675cb-3d2b-4b67-8183-2c1c09bcc044",
+    "ProductBrandId": "b760fa52-9182-4056-b4a1-964e2085d10f"
+  },
+  {
+    "Id": "29b26a6d-c74d-4f9d-b9e2-cdfa9249e998",
+    "Name": "FlexStride",
+    "Description": "Flexible fabric for ease of movement and comfort.",
+    "Price": 300,
+    "PictureUrl": "images/products/FlexStride.webp",
+    "ProductTypeId": "2ddcb656-60b1-47c3-9bd0-acc8518d3d51",
+    "ProductBrandId": "b760fa52-9182-4056-b4a1-964e2085d10f"
+  },
+  {
+    "Id": "a2275665-a306-401b-a5df-4eec6871a538",
+    "Name": "ChromaThread",
+    "Description": "Reflects light in rainbow colors for stunning visual effect.",
+    "Price": 250,
+    "PictureUrl": "images/products/ChromaThread.jpg",
+    "ProductTypeId": "ef69b074-db00-4502-9a7b-bdabf5e7ed54",
+    "ProductBrandId": "06cbd443-8b8d-413e-84f6-d059bbb7bafc"
+  },
+  {
+    "Id": "866066bd-cedb-44be-8323-ae1e1e5148bb",
+    "Name": "GravityFlex",
+    "Description": "Compression fabric for improved performance and comfort.",
+    "Price": 120,
+    "PictureUrl": "images/products/GravityFlex.jpg",
+    "ProductTypeId": "2ddcb656-60b1-47c3-9bd0-acc8518d3d51",
+    "ProductBrandId": "e16fbfc3-c612-470e-8c61-8e49d14d6749"
+  },
+  {
+    "Id": "8d16596a-2e74-40e8-a745-fbb38a914aeb",
+    "Name": "TriSpectrum",
+    "Description": "Three blended fabrics create a color spectrum effect.",
+    "Price": 10,
+    "PictureUrl": "images/products/TriSpectrum.webp",
+    "ProductTypeId": "ef69b074-db00-4502-9a7b-bdabf5e7ed54",
+    "ProductBrandId": "b760fa52-9182-4056-b4a1-964e2085d10f"
+  },
+  {
+    "Id": "c947add8-279d-4379-a792-3b81b9971536",
+    "Name": "OmniWeave",
+    "Description": "Multi-dimensional fabric with natural and synthetic fibers.",
+    "Price": 8,
+    "PictureUrl": "images/products/OmniWeave.jpg",
+    "ProductTypeId": "ef69b074-db00-4502-9a7b-bdabf5e7ed54",
+    "ProductBrandId": "06cbd443-8b8d-413e-84f6-d059bbb7bafc"
+  },
+  {
+    "Id": "fa55404f-1eae-4303-b3fe-f72520400d13",
+    "Name": "SunShield",
+    "Description": "Wide-brimmed hat with UV protection for sunny days.",
+    "Price": 15,
+    "PictureUrl": "images/products/SunShield.jpg",
+    "ProductTypeId": "3bab382f-a33e-4ea5-af70-5539d5675929",
+    "ProductBrandId": "e16fbfc3-c612-470e-8c61-8e49d14d6749"
+  },
+  {
+    "Id": "85443751-b64f-4c9d-9c81-2094b8d98667",
+    "Name": "WindTrekker",
+    "Description": "Lightweight hat with wind-resistant fabric for outdoor adventures.",
+    "Price": 18,
+    "PictureUrl": "images/products/WindTrekker.jpg",
+    "ProductTypeId": "3bab382f-a33e-4ea5-af70-5539d5675929",
+    "ProductBrandId": "e16fbfc3-c612-470e-8c61-8e49d14d6749"
+  },
+  {
+    "Id": "1fdd978b-b120-4445-b651-d3bf3e4778dd",
+    "Name": "CozyCrown",
+    "Description": "Soft and warm beanie for chilly days.",
+    "Price": 15,
+    "PictureUrl": "images/products/CozyCrown.jpg",
+    "ProductTypeId": "3bab382f-a33e-4ea5-af70-5539d5675929",
+    "ProductBrandId": "e16fbfc3-c612-470e-8c61-8e49d14d6749"
+  },
+  {
+    "Id": "8e061149-4792-4906-bb89-e5e951a7b841",
+    "Name": "ChillBlocker",
+    "Description": "Insulated hat with ear flaps for extreme cold weather.",
+    "Price": 16,
+    "PictureUrl": "images/products/ChillBlocker.webp",
+    "ProductTypeId": "3bab382f-a33e-4ea5-af70-5539d5675929",
+    "ProductBrandId": "06cbd443-8b8d-413e-84f6-d059bbb7bafc"
+  },
+  {
+    "Id": "79cdf8e7-3e08-4bda-8258-971a89dc9efd",
+    "Name": "RainDefender",
+    "Description": "Waterproof hat with a wide brim for rainy days.",
+    "Price": 14,
+    "PictureUrl": "images/products/RainDefender.webp",
+    "ProductTypeId": "3bab382f-a33e-4ea5-af70-5539d5675929",
+    "ProductBrandId": "06cbd443-8b8d-413e-84f6-d059bbb7bafc"
+  },
+  {
+    "Id": "3fab3ff7-e1f6-41f7-ab79-bdd6a26a7dc5",
+    "Name": "StepUpPro",
+    "Description": "Supportive and cushioned shoe for long-lasting comfort.",
+    "Price": 250,
+    "PictureUrl": "images/products/StepUpPro.jpg",
+    "ProductTypeId": "aca675cb-3d2b-4b67-8183-2c1c09bcc044",
+    "ProductBrandId": "e16fbfc3-c612-470e-8c61-8e49d14d6749"
+  },
+  {
+    "Id": "6fa2a9a4-769a-4c03-ba13-1053432eeb4c",
+    "Name": "GlideEase",
+    "Description": "Slip-on shoe with smooth and effortless movement.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/GlideEase.webp",
+    "ProductTypeId": "aca675cb-3d2b-4b67-8183-2c1c09bcc044",
+    "ProductBrandId": "b760fa52-9182-4056-b4a1-964e2085d10f"
+  },
+  {
+    "Id": "a7e1f048-3856-4d47-9ce6-ec101b13bbd0",
+    "Name": "SnowPeakPro",
+    "Description": "Durable and warm hat designed for snow and winter sports.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/SnowPeakPro.jpg",
+    "ProductTypeId": "3bab382f-a33e-4ea5-af70-5539d5675929",
+    "ProductBrandId": "b760fa52-9182-4056-b4a1-964e2085d10f"
+  },
+  {
+    "Id": "7c8c007e-4aea-4097-bad0-f1b0e5a1defb",
+    "Name": "ComfortStep",
+    "Description": "Soft and supportive shoe for all-day comfort.",
+    "Price": 150,
+    "PictureUrl": "images/products/ComfortStep.jpg",
+    "ProductTypeId": "aca675cb-3d2b-4b67-8183-2c1c09bcc044",
+    "ProductBrandId": "d4464b97-2864-4aee-9a61-c91efb0318c3"
+  },
+  {
+    "Id": "957b6652-28d6-405b-9cfa-36945553ec65",
+    "Name": "RunVenture",
+    "Description": "Durable and agile shoe for trail running and adventures.",
+    "Price": 180,
+    "PictureUrl": "images/products/RunVenture.jpg",
+    "ProductTypeId": "aca675cb-3d2b-4b67-8183-2c1c09bcc044",
+    "ProductBrandId": "d4464b97-2864-4aee-9a61-c91efb0318c3"
+  }
+]

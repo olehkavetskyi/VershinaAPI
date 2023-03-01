@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/More/apis/Sky",
+      "type": "apis.azure"
+    },
+    "redis1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Cache/Redis/APIcache",
+      "type": "redis.azure",
+      "connectionId": "CacheConnection"
+    },
+    "mssql1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/skinet/databases/skinet",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:DefaultConnectionCloud"
+    },
+    "mssql2": {
+      "ignored": "true",
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:IdentityConnection"
+    },
+    "mssql3": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/skinet/databases/identity",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:DefaultConnectionCloudS"
+    }
+  }
+}
